@@ -35,4 +35,4 @@ Prophet, developed by Facebook, is a forecasting tool designed for time series d
 ## How to run
 
 1. Data : ``` ecommerce.csv ```
-2. Run ```forecasting.ipynb``` for entire workflow from EDA to Model Implementation
+2. Run ```Copy_of_forecasting.ipynb``` for entire workflow from EDA to Model Implementation
